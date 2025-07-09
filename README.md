@@ -1,5 +1,9 @@
 <h1 align="center">Hi I'm David Ordóñez 👋</h1>
 
+<p align="center">
+<img src="github-header.png">
+</p>
+
 <p>I like to learn about technology, specially relates to web development.</p>
 
 <br>
