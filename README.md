@@ -2,10 +2,12 @@
   <h1 align="center">Hi I'm David Ordóñez 👋</h1>
   <img width="100%" src="github-header.png">
   <h2 align="center">About me</h2>
-  <h2 align="center">Languages and Tools</h2>
-  <img align="center" src="https://skillicons.dev/icons?i=js,html,css,py,azure">
-  <h3>Interest</h3>
-  <img align="center" src="https://skillicons.dev/icons?i=nodejs,tailwind,react,sequelize,mongodb">
+  <div align="center">
+    <h2 align="center">Languages and Tools</h2>
+    <img src="https://skillicons.dev/icons?i=js,html,css,py,azure">
+    <h3>Interest</h3>
+    <img src="https://skillicons.dev/icons?i=nodejs,tailwind,react,sequelize,express,mongodb">
+  </div>
   <h2 align="center">Certifications</h2>
   <h3>Azure</h3>
   <table>
