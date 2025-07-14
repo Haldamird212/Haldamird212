@@ -3,21 +3,21 @@
 <p align="center">
 <img src="github-header.png">
 </p>
-
+<h2>About me</h2>
 <p>I like to learn about technology, specially relates to web development.</p>
 
 <br>
 <h2>Languages and tools<h2>
-<p>Languages</p>
 <p align="center">
-<img src="https://skillicons.dev/icons?i=js,html,css,py">
-</p>
-<p>Technologies</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,tailwind,django,fastapi,azure">
+<img src="https://skillicons.dev/icons?i=js,html,css,py,azure">
 </p>
 
-<p>Certifications</p>
+<h2>Interest</h2>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,tailwind,django,fastapi,">
+</p>
+
+<h2>Certifications</h2>
   <a href="https://learn.microsoft.com/api/credentials/share/es-es/davidordoneznavarro-0661/B97FCE9073C95D76?sharingId=BC4E9AD0D3F185D0">
 <p>AZ-900</p>
 <img width="150px" height="150px" src="https://learn.microsoft.com/es-mx/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg">
